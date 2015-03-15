@@ -1,0 +1,6 @@
+mido
+python-rtmidi
+bottle
+click
+pygame
+git+https://github.com/gelendir/notehole.git
